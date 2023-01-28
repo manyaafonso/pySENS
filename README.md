@@ -1,4 +1,6 @@
-# SENS - SALSA E Não Só (In English: SALSA and more)
+# SENS - SALSA E Não Só
+(In English: SALSA and more)
+
 Python implementation of optimization methods for inverse problems in imaging.
 
 This repository contains python implementations of software originally developed in Matlab during my PhD and post-doctoral work at Instituto Superior Técnico, Lisbon, Portugal. For details about the algorithms, refer to the articles:
